@@ -2,7 +2,7 @@
 ---
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attafhabib)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attafhabib)
 ## Frameworks
 
 ## Tools
