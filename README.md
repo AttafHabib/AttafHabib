@@ -9,14 +9,6 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=attafhabib&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="AttafHabib's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=attafhabib&langs_count=8&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-## Frameworks
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=attafhabib&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="AttafHabib's github stats" />
-
-## Tools
-
-
-
-
 
 <!--
 **AttafHabib/AttafHabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
