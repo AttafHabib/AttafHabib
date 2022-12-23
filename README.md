@@ -1,6 +1,12 @@
 ### Hi there, I am Attaf Habib 👋
 ---
 
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attafhabib)
+## Frameworks
+
+## Tools
+
 ## My Github Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=attafhabib&count_private=true&show_icons=true)
 <!--
