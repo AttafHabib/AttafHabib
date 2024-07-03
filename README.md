@@ -1,7 +1,7 @@
 ### Hi there, I am Attaf Habib 👋
 ---
 ## My Github Stats:
-| <img align="center" src="https://github-readme-stats-t04p-attafhabibs-projects.app/api?username=attafhabib&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="AttafHabib's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=attafhabib&langs_count=8&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats-t04p-attafhabibs-projects.vercel.app/api?username=attafhabib&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="AttafHabib's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=attafhabib&langs_count=8&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 
